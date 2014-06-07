@@ -1,5 +1,5 @@
 ###############################################################################
-## plot3.R script file
+## plot4.R script file
 ###############################################################################
 ## This script creates a line graph representing the values of the energy
 ## sub metering variables (Sub_metering_1, Sub_metering_2, Sub_metering_3) 
